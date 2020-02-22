@@ -1,0 +1,29 @@
+{
+  "name": "migracode-express-workshop-2",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "utils.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakibul4477/migracode-express-workshop-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakibul4477/migracode-express-workshop-2/issues"
+  },
+  "homepage": "https://github.com/rakibul4477/migracode-express-workshop-2#readme",
+  "dependencies": {
+    "@hapi/boom": "^9.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
